@@ -1,4 +1,4 @@
-package abhi.practice.concurrency.synchronization.inference;
+package abhi.practice.concurrency.synchronization.interference;
 
 public class Main implements Runnable{
     Counter c = new Counter();
